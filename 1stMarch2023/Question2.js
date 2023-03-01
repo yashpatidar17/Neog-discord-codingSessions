@@ -23,3 +23,4 @@ const printFun = obj =>{
 
 
 console.log(printFun(obj));
+
